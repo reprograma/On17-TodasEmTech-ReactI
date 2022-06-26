@@ -281,6 +281,10 @@ function App() {
 
 | Exemplo | Descrição |
 | --- | --- |
+| `CSS` |  Vamos aprender como estilizar componentes com css.
+
+| Exemplo | Descrição |
+| --- | --- |
 | `Imagem` |  Vamos aprender como trabalhar com imagens, criando um componente que recebe um nome e uma imagem. E depois renderizar na tela esse card.|
 
 | Exemplo | Descrição |
