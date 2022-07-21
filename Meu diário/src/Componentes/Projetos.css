@@ -1,0 +1,9 @@
+
+.div-projetos {
+    background-color: rgb(151, 73, 73);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+  }
