@@ -1,4 +1,4 @@
-function Imagem(props) {
+function Image (props) {
   return(
     <img 
       src={props.link}
@@ -6,5 +6,5 @@ function Imagem(props) {
   )
 }
 
-export default Imagem
+export default Image
 
